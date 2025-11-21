@@ -17,6 +17,7 @@ Second drawer under the sled: beer opener, wine, scissors, lighter
 The third drawer under the sledge: varjaca, cloth
 Fourth drawer under the sled: brush, adhesive tape
 Drawer under the stove capsule for the dishwasher
+A large trash can is located in the kitchen under the sink, and a small one is located in the toilet
 Salt and sugar are located in the hanging part next to the mirror
 Air conditioning and heating are adjusted on the device located on the wall next to the toilet door
 Wi-Fi: scan the barcode next to the TV
@@ -25,6 +26,7 @@ The hair dryer is in the drawer under the bathroom sink
 The light under the bed is turned on by the switch behind the bed on the right
 Electricity: the first button next to the door turns on/off the electricity in the whole apartment
 An ATM or ATM is located in the shopping center on the first floor
+The cable operator is orion and the code is 1111
 Apartment location: 
 • The apartment is located on the 28th floor, apartment number is 28.4. 
 • The reception is on the 0th floor. 

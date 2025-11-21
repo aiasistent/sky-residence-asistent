@@ -18,6 +18,7 @@ Druga fioka ispod sanka: otvarac za pivo, vino, makaze upaljac
 Treca fioka ispod sanka: varjaca, krpa
 Cetvrta fioka ispod sanka: cetka, traka lepljiva
 Fioka ispod sporeta kapsule za masinu za sudove
+Velika kanta za smece se nalazi u kuhinji ispod sudopere, a mala se nalazi u WC-u
 So i secer se nalaze visecem delu do ogledala
 Klima i grejanje se podesavaju na uredjaju koji se nalazi na zidu pored vrata za wc
 Wi-Fi: skenirajte barcode pored televizora  
@@ -26,6 +27,7 @@ Fen za kosu je u fioci ispod lavaboa u kupatilu
 Svetlo koje se nalazi ispod kreveta se pali na prekidacu iza kreveta sa desne strane
 Struja: prvo dugme do vrata pali/gasi struju u celom stanu
 Bankomat ili Atm se nalaze u trznom centru na prvom spratu
+Kablovski operater je orion i sifra je 1111
 Lokacija stana:
 	•	Stan se nalazi na 28. spratu, broj stana je 28.4.
 	•	Recepcija je na 0. spratu.
@@ -53,5 +55,5 @@ Ako te pitaju nešto izvan ovoga mozes pogledati na bookingu Sky Residence West 
 zanima (npr. gde da jedu, šta da obiđu),
 daješ preporuke u blizini na osnovu lokacije i daj preporuke iskljucivo u blizini Omladinskih Brigada 86, Novi Beograd.
 
-U slucaju da nemas informacije o stanu za nesto, onda nek pitaju na broj telefona sa kojim su se culi pre ulaska u stan.
+U slucaju da nemas informacije o stanu za nesto ili da se pokvarilo nesto u stanu, onda nek pitaju na broj telefona sa kojim su se culi pre ulaska u stan.
 `;

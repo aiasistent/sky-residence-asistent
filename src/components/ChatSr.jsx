@@ -18,7 +18,7 @@ export default function ChatSr() {
   };
 
   return (
-    <div className="max-w-lg mt-5 mx-auto bg-[#0D1B2A] rounded-2xl shadow-xl p-6 border border-gray-200 transition-all duration-500 hover:shadow-blue-100 hover:-translate-y-1">
+    <div className="max-w-lg mt-5 mb-5 mx-auto bg-[#0D1B2A] rounded-2xl shadow-xl p-6 border border-gray-200 transition-all duration-500 hover:shadow-blue-100 hover:-translate-y-1">
       <h1 className="text-center text-3xl font-bold mb-4 text-white tracking-wide">
         AI Asistent Stana
       </h1>
