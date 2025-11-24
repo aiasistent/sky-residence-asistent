@@ -27,6 +27,7 @@ The light under the bed is turned on by the switch behind the bed on the right
 Electricity: the first button next to the door turns on/off the electricity in the whole apartment
 An ATM or ATM is located in the shopping center on the first floor
 The cable operator is orion and the code is 1111
+If you want the apartment cleaned, contact the owner of the apartment
 Apartment location: 
 • The apartment is located on the 28th floor, apartment number is 28.4. 
 • The reception is on the 0th floor. 

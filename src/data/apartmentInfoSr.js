@@ -28,6 +28,7 @@ Svetlo koje se nalazi ispod kreveta se pali na prekidacu iza kreveta sa desne st
 Struja: prvo dugme do vrata pali/gasi struju u celom stanu
 Bankomat ili Atm se nalaze u trznom centru na prvom spratu
 Kablovski operater je orion i sifra je 1111
+Ako zelite ciscenje apartmana, obratite se vlasniku apartmana.
 Lokacija stana:
 	•	Stan se nalazi na 28. spratu, broj stana je 28.4.
 	•	Recepcija je na 0. spratu.
