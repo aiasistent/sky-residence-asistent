@@ -1,17 +1,37 @@
-import OpenAI from "openai";
+export default async function handler(req, res) {
+  if (req.method !== "POST") {
+    return res.status(405).json({ error: "Method not allowed" });
+  }
 
-const client = new OpenAI({
-  apiKey: import.meta.env.VITE_OPENAI_API_KEY,
-  dangerouslyAllowBrowser: true,
-});
+  const { message, apartmentInfo, lang } = req.body;
 
-export async function askApartmentAI(question, info) {
-  const response = await client.chat.completions.create({
-    model: "gpt-4o-mini",
-    messages: [
-      { role: "system", content: info },
-      { role: "user", content: question },
-    ],
-  });
-  return response.choices[0].message.content;
+  try {
+    const response = await fetch("https://api.openai.com/v1/chat/completions", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
+      },
+      body: JSON.stringify({
+        model: "gpt-4o-mini",
+        messages: [
+          {
+            role: "system",
+            content: `
+Ti si AI asistent za apartman.
+Jezik: ${lang}
+Informacije:
+${apartmentInfo}
+            `,
+          },
+          { role: "user", content: message },
+        ],
+      }),
+    });
+
+    const data = await response.json();
+    res.status(200).json({ reply: data.choices[0].message.content });
+  } catch (err) {
+    res.status(500).json({ error: "AI error" });
+  }
 }
