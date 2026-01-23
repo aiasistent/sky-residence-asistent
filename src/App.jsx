@@ -17,6 +17,18 @@ export default function App() {
             <Route path="/chat-en" element={<ChatEn />} />
           </Routes>
         </BrowserRouter>
+
+        <div className="mt-6 text-center text-sm text-gray-300">
+          Powered by{" "}
+          <a
+            href="https://www.instagram.com/aiapartman/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-semibold text-blue-300 hover:text-blue-400 transition"
+          >
+            AI Apartman
+          </a>
+        </div>
       </div>
     </div>
   );
