@@ -74,7 +74,7 @@ export default function ChatEn() {
         className="relative h-100 overflow-y-auto p-4 border border-gray-300 rounded-lg bg-cover bg-center"
       >
         {messages.length > 0 ? (
-          <div className="relative z-10 bg-white/60 rounded-lg p-2">
+          <div className="relative z-10 bg-white/80 rounded-lg p-2">
             {messages.map((m, i) => (
               <p
                 key={i}
